@@ -5,7 +5,7 @@ public class Alphabet {
     public static void main(String[] args) {
 //   1. Используя Switch и оператор if else написать программу, проверяющую  является ли принятый
 // со сканера символ согласной  буквой английского алфавита, гласной буквой английского алфавита
-// либо не является буквой английского алфавита.
+// либо не является буквой английского алфавита...
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the letter");
         char letter= sc.next().charAt(0);
